@@ -9,3 +9,6 @@ Thumbs.db
 Desktop.ini
 *.swp
 *~
+
+# 测试渲染产物（PNG 图片卡片，工作区保留、不入库）
+tests/output/cards/
