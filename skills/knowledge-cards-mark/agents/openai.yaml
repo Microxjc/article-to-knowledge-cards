@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片：knowledge-cards-mark"
+  short_description: "把用户粘贴的文章或本地 Markdown/TXT 文件转换成 5~8 张知识卡片（含标题、核心知识、简明解释、例子或自测问题），并可渲染为统一版式的 PNG 图片卡片，用于学习、复习与分享。"
+  default_prompt: "请把这篇文章转换成知识卡片。"
